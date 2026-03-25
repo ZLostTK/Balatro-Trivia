@@ -1,0 +1,66 @@
+{
+  "cartas": [
+    {
+      "tipo": "dobleConocimiento",
+      "archivo": "carta_dobleconocimiento.png",
+      "prompt": "A pixel-art style tarot card for a Balatro-inspired trivia game. The card shows a glowing golden book with radiating light, symbolizing \"Double Knowledge\". Dark purple/blue background with mystical gold borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "adivino",
+      "archivo": "carta_adivino.png",
+      "prompt": "A pixel-art style tarot card for a Balatro-inspired trivia game. The card shows a mystical fortune teller crystal ball with a green healing aura, symbolizing \"Healer/Diviner\". Dark purple/blue background with mystical gold borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "precision",
+      "archivo": "carta_precision.png",
+      "prompt": "A pixel-art style planet card for a Balatro-inspired trivia game. The card shows a glowing crosshair/target with a blue energy ring, symbolizing \"Precision\". Dark teal/space background with cyan borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "observador",
+      "archivo": "carta_observador.png",
+      "prompt": "A pixel-art style planet card for a Balatro-inspired trivia game. The card shows a large glowing eye surrounded by stars, symbolizing \"Observer\". Dark teal/space background with cyan borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "escudo",
+      "archivo": "carta_escudo.png",
+      "prompt": "A pixel-art style spectral/ghost card for a Balatro-inspired trivia game. The card shows a translucent glowing shield with ethereal energy waves, symbolizing \"Shield/Protection\". Dark black/ghostly background with white/silver spectral borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "sacrificio",
+      "archivo": "carta_sacrificio.png",
+      "prompt": "A pixel-art style spectral/ghost card for a Balatro-inspired trivia game. The card shows a dark ritual dagger with red blood drops and ghostly smoke, symbolizing \"Sacrifice\". Dark black/ghostly background with red/silver spectral borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    }
+  ],
+  "comodines": [
+    {
+      "tipo": "segundaOportunidad",
+      "archivo": "joker_segunda_oportunidad.png",
+      "prompt": "A pixel-art style joker card for a Balatro-inspired trivia game. The card shows a green glowing hourglass being flipped with time particles flowing, symbolizing \"Second Chance\". Dark green background with golden borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "astuto",
+      "archivo": "joker_astuto.png",
+      "prompt": "A pixel-art style joker card for a Balatro-inspired trivia game. The card shows a sly fox face with glowing yellow eyes and a cunning smirk, symbolizing \"Cunning/Astute\". Dark green background with golden borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "impulsoPuntaje",
+      "archivo": "joker_impulso_puntaje.png",
+      "prompt": "A pixel-art style joker card for a Balatro-inspired trivia game. The card shows a blue lightning bolt striking upward with energy sparks and a score counter going up, symbolizing \"Score Boost\". Dark blue/purple background with silver borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "veloz",
+      "archivo": "joker_veloz.png",
+      "prompt": "A pixel-art style joker card for a Balatro-inspired trivia game. The card shows a blazing orange/red speed streak with motion lines and a fiery aura, symbolizing \"Speed/Velocity\". Dark blue/purple background with silver borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "protectorRacha",
+      "archivo": "joker_protector_racha.png",
+      "prompt": "A pixel-art style joker card for a Balatro-inspired trivia game. The card shows a golden chain link surrounded by flames, symbolizing \"Streak Protector\". Dark red/crimson background with gold ornate borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    },
+    {
+      "tipo": "vampiro",
+      "archivo": "joker_vampiro.png",
+      "prompt": "A pixel-art style joker card for a Balatro-inspired trivia game. The card shows a vampire bat with red glowing eyes draining energy from a purple orb, symbolizing \"Vampire\". Dark red/crimson background with gold ornate borders. Card game aesthetic, retro pixel style, 64x88 pixels look upscaled. No text."
+    }
+  ]
+}

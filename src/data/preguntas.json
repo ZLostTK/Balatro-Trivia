@@ -1,0 +1,820 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es el género principal del videojuego Balatro?",
+    "opciones": [
+      "Shooter en primera persona",
+      "Roguelike de construcción de mazos",
+      "Carreras arcade",
+      "Puzzle de lógica"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro",
+      "https://en.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué modalidad de juego ofrece Balatro?",
+    "opciones": [
+      "Un jugador (single player)",
+      "Cooperativa con 2 jugadores",
+      "Multijugador competitivo",
+      "Modo historia"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro",
+      "https://en.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Quién es el desarrollador de Balatro?",
+    "opciones": [
+      "LocalThunk",
+      "Playstack",
+      "Diane Carswell",
+      "Abiotic Factor"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro",
+      "https://en.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Con cuántos espacios de comodín comienza típicamente el jugador en Balatro?",
+    "opciones": [
+      "3 espacios",
+      "5 espacios",
+      "7 espacios",
+      "10 espacios"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines",
+      "https://balatrogame.fandom.com/wiki/Jokers"
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Cuántas cartas tiene la baraja estándar en Balatro al inicio de una partida?",
+    "opciones": [
+      "32 cartas",
+      "36 cartas",
+      "52 cartas",
+      "54 cartas"
+    ],
+    "respuestaCorrecta": 2,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://en.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cuántas ciegas (blinds) componen una apuesta inicial (ante) en Balatro?",
+    "opciones": [
+      "1 ciega",
+      "2 ciegas",
+      "3 ciegas",
+      "4 ciegas"
+    ],
+    "respuestaCorrecta": 2,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+      "https://es.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Cuál es la puntuación base (en fichas) otorgada por una mano de \"Par\" en Balatro?",
+    "opciones": [
+      "5 fichas",
+      "10 fichas",
+      "20 fichas",
+      "30 fichas"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://balatrogame.fandom.com/wiki/Poker_Hands"
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuántas fichas base otorga una mano de \"Doble Pareja\" en Balatro?",
+    "opciones": [
+      "10 fichas",
+      "20 fichas",
+      "30 fichas",
+      "40 fichas"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://balatrogame.fandom.com/wiki/Poker_Hands"
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cuál es la puntuación base (en fichas) de un \"Póker\" (Four of a Kind) en Balatro?",
+    "opciones": [
+      "60 fichas",
+      "100 fichas",
+      "140 fichas",
+      "160 fichas"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://balatrogame.fandom.com/wiki/Poker_Hands"
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuántos comodines existen en total en Balatro (versión 1.0.1)?",
+    "opciones": ["100", "150", "200", "250"],
+    "respuestaCorrecta": 1,
+    "dificultad": "facil",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines",
+      "https://balatrogame.fandom.com/wiki/Jokers"
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cómo se calcula la puntuación de cada mano de póker en Balatro?",
+    "opciones": [
+      "Sumando los valores de las cartas",
+      "Multiplicando las fichas de la mano por un multiplicador según el tipo de mano",
+      "Uniendo las cartas formadas por color",
+      "Asignando una puntuación fija según la rareza"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro",
+      "https://balatro.fandom.com/es/wiki/Comodines"
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "En Balatro, si la ciega gana la última mano contra el jugador, ¿qué sucede?",
+    "opciones": [
+      "El jugador recibe fichas extra",
+      "La partida termina (la corrida se pierde)",
+      "Se duplica la apuesta inicial",
+      "Nada, sigue la siguiente ronda igual"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://421.news/balatro-guia",
+      "https://es.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué obtienes al saltar (skip) una ciega pequeña o grande en Balatro?",
+    "opciones": [
+      "Ninguna recompensa, se pierde la ronda",
+      "Una etiqueta (tag) con beneficios en la tienda siguiente",
+      "Doble dinero en la siguiente tienda",
+      "Un comodín adicional gratis"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro",
+      "https://en.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "Las cartas de planetas en Balatro tienen el efecto de:",
+    "opciones": [
+      "Duplicar todas las fichas obtenidas",
+      "Incrementar el valor base de las manos de póker específicas",
+      "Ocupar espacio de comodín en el mazo",
+      "Destruir todas las cartas de un palo"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro",
+      "https://balatrogame.fandom.com/wiki/Planet_Cards"
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "Las cartas del tarot en Balatro ofrecen principalmente:",
+    "opciones": [
+      "Puntuación extra en cada mano",
+      "Efectos permanentes acumulativos",
+      "Una sola vez un efecto especial (destruir o cambiar cartas)",
+      "Reducir el número de descartes"
+    ],
+    "respuestaCorrecta": 2,
+    "dificultad": "media",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro",
+      "https://en.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "Las cartas espectrales en Balatro brindan:",
+    "opciones": [
+      "Beneficios permanentes en cada tienda",
+      "Efectos de un solo uso más potentes, como crear copias o modificar dinero",
+      "Multiplicadores de puntaje constante",
+      "Cartas comodín gratis al final de la partida"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro",
+      "https://en.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué efecto tiene la edición \"Laminado\" en un comodín de Balatro?",
+    "opciones": [
+      "Añade +50 fichas a la mano en la tienda",
+      "Añade +50 fichas al valor de ese comodín cuando anota",
+      "Multiplica x1.5 el multiplicador del comodín",
+      "No tiene efecto; es sólo decorativo"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines"
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "La edición \"Holográfica\" de un comodín en Balatro:",
+    "opciones": [
+      "Aumenta en +10 el multiplicador del comodín",
+      "Otorga una ranura adicional de comodín",
+      "Duplica el efecto del comodín en la mano actual",
+      "Añade +50 fichas a la mano en la tienda"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines"
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "Un comodín con edición \"Policromada\" en Balatro:",
+    "opciones": [
+      "Multiplica por 1.5 el multiplicador del comodín",
+      "Otorga -10 al multiplicador del comodín",
+      "Añade +20 fichas a la mano",
+      "No afecta al multiplicador, sólo al valor en tienda"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines"
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué efecto tiene la edición \"Negativo\" en un comodín de Balatro?",
+    "opciones": [
+      "Destruye la carta cuando se anota",
+      "Otorga una ranura de comodín adicional",
+      "Convierte el comodín en un comodín raro",
+      "Invierte los efectos del comodín"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines"
+    ]
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué otorga un cupón (voucher) cuando se compra en la tienda de Balatro?",
+    "opciones": [
+      "Una mejora permanente inmediata (ej. +1 mano, cambiar ciega, etc.)",
+      "Dinero extra para gastar en la tienda actual",
+      "Un comodín legendario aleatorio",
+      "Permite recomenzar la ronda actual"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "media",
+    "fuentes": [
+      "https://en.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Cómo se obtienen normalmente nuevos comodines durante una partida en Balatro?",
+    "opciones": [
+      "Recompensa de derrotar una ciega",
+      "Comprándolos en la tienda",
+      "Encontrándolos como botín de cartas de póker",
+      "Intercambiando 10 cartas planeta"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines",
+      "https://balatrogame.fandom.com/wiki/Jokers"
+    ]
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué probabilidad hay de generar un comodín de rareza común al azar en una partida de Balatro?",
+    "opciones": [
+      "5%",
+      "25%",
+      "70%",
+      "0%"
+    ],
+    "respuestaCorrecta": 2,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines"
+    ]
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué probabilidad hay de generar un comodín de rareza inusual (Uncommon) al azar?",
+    "opciones": [
+      "70%",
+      "25%",
+      "5%",
+      "0%"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines"
+    ]
+  },
+  {
+    "id": 25,
+    "pregunta": "Las ciegas Pequeña y Grande en Balatro tienen multiplicadores de:",
+    "opciones": [
+      "x1.0 y x1.5 respectivamente",
+      "x1.5 y x2.0 respectivamente",
+      "x2.0 y x2.5 respectivamente",
+      "x0.5 y x1.0 respectivamente"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatrogame.fandom.com/wiki/Blinds_and_Antes"
+    ]
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Cuál es el efecto principal del comodín \"Splash\" en Balatro?",
+    "opciones": [
+      "Permite que todas las cartas jugadas anoten",
+      "Duplica la puntuación de la mano",
+      "Añade una carta extra a la mano",
+      "Cambia el palo de todas las cartas"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatrogame.fandom.com/wiki/Splash"
+    ]
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Cómo se puede obtener un comodín legendario en Balatro?",
+    "opciones": [
+      "A través del cupón Retcon",
+      "Solo utilizando la carta espectral \"El Alma\"",
+      "Comprándolo directamente en la tienda",
+      "Derrotando a la ciega Oxidado"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatro.fandom.com/es/wiki/Comodines"
+    ]
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué se desbloquea al completar una corrida de Balatro (superar ante 8)?",
+    "opciones": [
+      "El modo infinito sin condiciones",
+      "Una nueva dificultad llamada \"Pozo\"",
+      "Cartas planetas especiales",
+      "Nada, termina la partida definitivamente"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Cuál es la función principal del vale del \"Director\u2019s Cut\"?",
+    "opciones": [
+      "Otorgar +1 mano extra de forma permanente",
+      "Rehacer la selección de la Ciega Jefe",
+      "Aumentar en 10% las recompensas de dinero en la tienda",
+      "Hace que puedan aparecer comodines duplicados"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "media",
+    "fuentes": [
+      "https://balatrogame.fandom.com/wiki/Gameplay_rules"
+    ]
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué contienen los sobres (boosters) que compras en la tienda de Balatro?",
+    "opciones": [
+      "Cartas comodín aleatorias",
+      "Puntos de experiencia para las barajas",
+      "5 cartas normales aleatorias",
+      "5 cartas normales no reveladas hasta abrir el sobre"
+    ],
+    "respuestaCorrecta": 3,
+    "dificultad": "media",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Cuántos comodines de rareza común hay en Balatro (versión actual)?",
+    "opciones": ["61", "105", "64", "32"],
+    "respuestaCorrecta": 0,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatro.fandom.com/es/wiki/Comodines"]
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Cuántos comodines de rareza inusual hay en Balatro?",
+    "opciones": ["64", "20", "5", "61"],
+    "respuestaCorrecta": 0,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatro.fandom.com/es/wiki/Comodines"]
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Cuántos comodines de rareza rara existen en Balatro?",
+    "opciones": ["20", "64", "61", "5"],
+    "respuestaCorrecta": 0,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatro.fandom.com/es/wiki/Comodines"]
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Cuántos comodines de rareza legendaria existen en Balatro?",
+    "opciones": ["0", "5", "10", "20"],
+    "respuestaCorrecta": 1,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatro.fandom.com/es/wiki/Comodines"]
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué probabilidad tiene un comodín legendario de aparecer al generar un comodín aleatorio en Balatro?",
+    "opciones": ["0%", "5%", "25%", "70%"],
+    "respuestaCorrecta": 0,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatro.fandom.com/es/wiki/Comodines"]
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Qué probabilidad tiene un comodín raro de aparecer al generar uno al azar?",
+    "opciones": ["70%", "25%", "5%", "0%"],
+    "respuestaCorrecta": 2,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatro.fandom.com/es/wiki/Comodines"]
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué efecto tiene el comodín \"Salpicadura\" en Balatro?",
+    "opciones": [
+      "Consigue que todas las cartas jugadas marquen puntuación",
+      "Hace que todas las cartas jugadas tengan el mismo palo",
+      "Añade +10 al multiplicador de la mano",
+      "Descarta todas las cartas de coraz\u00f3n"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Splash"]
+  },
+  {
+    "id": 38,
+    "pregunta": "El comodín \"Chicot\" tiene el efecto de:",
+    "opciones": [
+      "Duplicar el multiplicador de la ciega jefe actual",
+      "Cancelar el efecto de la ciega jefe (Boss Blind)",
+      "Convertir la mano actual en doble pareja",
+      "Desactivar todos los efectos de cartas consumibles"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Special_Jokers"]
+  },
+  {
+    "id": 39,
+    "pregunta": "El comodín \"Luchador\" en Balatro sirve para:",
+    "opciones": [
+      "Ignorar el multiplicador de las ciegas jefe",
+      "Hacer que el jugador tenga 2 manos extra en la ronda",
+      "Cancelar el efecto de la ciega jefe actual (Boss Blind)",
+      "Convertir fichas en multi"
+    ],
+    "respuestaCorrecta": 2,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Special_Jokers"]
+  },
+  {
+    "id": 40,
+    "pregunta": "En Balatro, ¿qué es un \"Finisher Blind\"?",
+    "opciones": [
+      "Una ciega extra que aparece si avanzas más allá de ante 8 en modo infinito",
+      "Una ciega especial que da doble dinero",
+      "Una ciega que solo aparece en el cuarto run",
+      "Sinónimo de ciega grande"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Blinds_and_Antes"]
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cómo se desbloquea el comodín \"Astrónomo\"?",
+    "opciones": [
+      "Comprándolo en la tienda con $1000",
+      "Descubriendo las 12 cartas planeta disponibles en una corrida",
+      "Al completar el reto \"Astrónomo\" en el juego",
+      "Con un voucher especial"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Planet_Cards"]
+  },
+  {
+    "id": 42,
+    "pregunta": "El comodín \"Astrónomo\" otorga en las tiendas:",
+    "opciones": [
+      "$5 por cada carta planeta existente",
+      "Cartas y paquetes de planeta gratis ($0 cada una)",
+      "Un comodín legendario extra en todas las tiendas",
+      "Reducir en 50% el precio de los comodín"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Planet_Cards"]
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Qué efecto tiene el comodín \"Planet Merchant\" en Balatro?",
+    "opciones": [
+      "Duplica la aparición de cartas planeta en tiendas",
+      "Añade +20 fichas a todas las manos en la siguiente ronda",
+      "Proporciona un comodín de cada tipo",
+      "Reduce en 1 el número de descartes disponibles"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Planet_Cards"]
+  },
+  {
+    "id": 44,
+    "pregunta": "El comodín \"Planet Tycoon\" hace que en Balatro:",
+    "opciones": [
+      "Todas las cartas planeta costarán $0",
+      "La aparición de cartas planeta sea 4 veces más probable",
+      "Todas las cartas planeta otorguen +4 a su mano base",
+      "Duplicar los multiplicadores de las cartas planeta"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Planet_Cards"]
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Qué hace el comodín \"El Loco\" (The Fool) en Balatro?",
+    "opciones": [
+      "Convierte todas las cartas jugadas en el naipe \u2660",
+      "Crea una copia de la última carta de tarot o planeta usada",
+      "Aumenta en 1 el número de cartas restantes",
+      "Restaura las cartas descartadas en la mano"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Planet_Cards"]
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Cuál es la puntuación base (fichas) de un \"Flush House\" (Full House del mismo palo) en Balatro?",
+    "opciones": [
+      "60 fichas",
+      "100 fichas",
+      "140 fichas",
+      "160 fichas"
+    ],
+    "respuestaCorrecta": 2,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Poker_Hands"]
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Cuál es la puntuación base de la mano \"Quintilla / Cinco iguales\" (Five of a Kind) en Balatro?",
+    "opciones": [
+      "120 fichas",
+      "160 fichas",
+      "100 fichas",
+      "140 fichas"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Poker_Hands"]
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Cuál es la puntuación base de una \"Escalera de color\" (Straight Flush) en Balatro?",
+    "opciones": [
+      "60 fichas",
+      "100 fichas",
+      "140 fichas",
+      "120 fichas"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Poker_Hands"]
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Cuál es la puntuación base de una \"Escalera\" (Straight) en Balatro?",
+    "opciones": [
+      "30 fichas",
+      "35 fichas",
+      "40 fichas",
+      "45 fichas"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Poker_Hands"]
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Cuál es la puntuación base de un \"Flush\" (Color) en Balatro?",
+    "opciones": [
+      "30 fichas",
+      "35 fichas",
+      "40 fichas",
+      "60 fichas"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "dificil",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Poker_Hands"]
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Cuántos comodines legendarios exactos existen en Balatro y cuáles son?",
+    "opciones": [
+      "5: Canio, Triboulet, Yorick, Chicot y Perkeo",
+      "4: Canio, Triboulet, Yorick, Cerberus y Chicot",
+      "6: Canio, Triboulet, Yorick, Chicot, Perkeo y Cerberus",
+      "3: Canio, Triboulet y Yorick"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Jokers"]
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Cuál es el multiplicador exacto del comodín 'Triboulet' al anotar un Rey o Reina jugada?",
+    "opciones": [
+      "x1.5 al multiplicador",
+      "x2 al multiplicador",
+      "+50 fichas y x2 multi",
+      "x3 al multiplicador"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Triboulet"]
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Cuál es el efecto exacto del comodín 'Perkeo' al final de la tienda?",
+    "opciones": [
+      "Duplica los consumibles",
+      "Crea una copia negativa de 1 consumible aleatorio",
+      "Destruye un comodín aleatorio y otorga x3 multi",
+      "Genera 2 cartas planeta aleatorias gratis"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Perkeo"]
+  },
+  {
+    "id": 54,
+    "pregunta": "En Balatro, ¿cuál es el precio base exacto de un sobre estándar (Standard Pack) en la tienda?",
+    "opciones": [
+      "$2",
+      "$3",
+      "$4",
+      "$5"
+    ],
+    "respuestaCorrecta": 2,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Booster_Packs"]
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Cuál es el efecto exacto del comodín 'Yorick' en Balatro?",
+    "opciones": [
+      "Gana x1 Multi por cada 23 cartas descartadas (empieza en x1 Multi)",
+      "Gana fichas por cada carta descartada igual al valor de la carta",
+      "Destruye cartas aleatorias y gana x0.5 Multi por cada una",
+      "Otorga $1 por cada 5 cartas descartadas"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Yorick"]
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Cuántas barajas desbloqueables distintas existen en Balatro (sin contar la baraja base)?",
+    "opciones": [
+      "10 barajas",
+      "14 barajas",
+      "8 barajas",
+      "20 barajas"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Decks"]
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Cuántas cartas de Tarot distintas existen en total en Balatro?",
+    "opciones": [
+      "15 cartas",
+      "22 cartas",
+      "18 cartas",
+      "10 cartas"
+    ],
+    "respuestaCorrecta": 1,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Tarot_Cards"]
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Cuántas sellos (seals) diferentes puede tener una carta de juego en Balatro y cuáles son?",
+    "opciones": [
+      "4: Dorado, Rojo, Azul y Morado",
+      "3: Dorado, Rojo y Azul",
+      "5: Dorado, Rojo, Azul, Morado y Verde",
+      "2: Dorado y Rojo"
+    ],
+    "respuestaCorrecta": 0,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Seals"]
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Cuál es el multiplicador base exacto de la mano 'Escalera Real' (Royal Flush) en Balatro?",
+    "opciones": [
+      "x6 multi",
+      "x7 multi",
+      "x8 multi",
+      "x10 multi"
+    ],
+    "respuestaCorrecta": 2,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Poker_Hands"]
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Cuántos cupones (vouchers) distintos existen en total en Balatro incluyendo sus versiones mejoradas?",
+    "opciones": [
+      "16 cupones (8 base + 8 mejorados)",
+      "20 cupones (10 base + 10 mejorados)",
+      "32 cupones (16 base + 16 mejorados)",
+      "24 cupones (12 base + 12 mejorados)"
+    ],
+    "respuestaCorrecta": 2,
+    "dificultad": "imposible",
+    "fuentes": ["https://balatrogame.fandom.com/wiki/Vouchers"]
+  }
+]
